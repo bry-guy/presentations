@@ -177,9 +177,9 @@ However, some intuition would go a _long_ way!
 
 #### Introducing Gemini Protocol
 
-Gemini Protocol is a new application-over-internet protocol, created in 2019. It is nascent, simple, and takes a lot of inspiration from the web.
+Gemini Protocol is a new application-over-internet protocol, created in 2019. It is nascent, simple, and inspired by the web.
 
-From [gemini://gemini.circumlunar.space](https://gemini.circumlunar.space/):
+From [gemini://gemini.circumlunar.space](https://gemini.flounder.online/)*:
 
 ```
 Gemini is a new internet protocol which:
@@ -189,6 +189,8 @@ Gemini is a new internet protocol which:
    - Strives for maximum power to weight ratio
    - Takes user privacy very seriously
 ```
+
+*[gemini.circumlunar.space](gemini://gemini.circumlunar.space) is Gemini's "home", and is currently down.
 
 ---
 
@@ -204,7 +206,7 @@ There are many, _many_ more internet protocols in existence, and in use, that yo
 
 #### Lighter than the web?
 
-Gemini is intended to be a simple protocol - like Gopher - while still leveraging some of the best lessons of the Web. From the [FAQ](gemini://gemini.circumlunar.space/docs/faq.gmi):
+Gemini is intended to be a simple protocol - like Gopher - while still leveraging some of the best lessons of the Web. From the [FAQ](gemini://gemini.flounder.online/docs/faq.gmi):
 
 ```txt
 Gemini strives for simplicity of client implementation. 
@@ -248,11 +250,11 @@ which depend upon the speed and reliability of your network connection.
 
 It's hard to understate how much simpler Gemini is than the Web. 
 
-Here, [read the protocol specification](gemini://gemini.circumlunar.space/docs/specification.gmi) yourself! 
+Here, [read the protocol specification](gemini://gemini.flounder.online/docs/specification.gmi) yourself! 
 
-While you're at it, consider checking out the [informal gemtext specification](gemini://gemini.circumlunar.space/docs/gemtext.gmi). Gemtext is Gemini's HTML.
+While you're at it, consider checking out the [informal gemtext specification](gemini://gemini.flounder.online/docs/gemtext.gmi). Gemtext is Gemini's HTML.
 
-From a writing perspective, [Gemtext is _much_ simpler](gemini://gemini.circumlunar.space/docs/cheatsheet.gmi) than HTML _or_ Markdown.
+From a writing perspective, [Gemtext is _much_ simpler](gemini://gemini.flounder.online/docs/cheatsheet.gmi) than HTML _or_ Markdown.
 
 ---
 
