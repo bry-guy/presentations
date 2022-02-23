@@ -258,6 +258,25 @@ From a writing perspective, [Gemtext is _much_ simpler](gemini://gemini.flounder
 
 ---
 
+#### Quick Example of Simplicity
+
+A Gemini request is a single CRLF-terminated line with a UTF-8 URL:
+
+```
+<URL><CR><LF>
+```
+
+Similarly, a Gemini response is a single CRLF-terminated header line, followed by a response body. It is lead by a two-digit status code, and optional metadata:
+
+```
+<STATUS><SPACE><META><CR><LF><BODY>
+```
+
+You can only issue a single request type - equivalent to GET - and there are only 6 required STATUS codes.
+
+
+---
+
 #### This is Not An Ad
 
 The reason I came here to talk to you about the Web, and about Gemini, is not to convince you is better or worse than the other.
