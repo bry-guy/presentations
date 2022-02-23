@@ -12,6 +12,18 @@ backgroundColor: #f5f5f5
 
 ---
 
+#### What is the web, even?
+
+I read a book recently titled [Weaving the Web](https://www.w3.org/People/Berners-Lee/Weaving/), authored by Sir Tim Berners-Lee. 
+
+Coincidentally, he is the inventor of the World Wide Web.
+
+<br></br>
+
+It answered some questions but opened more - do I even understand the web?
+
+---
+
 #### What do we mean when we say "website"?
 
 Websites are HyperText Markup Language (HTML) pages, served over HyperText Transport Protocol (HTTP).
